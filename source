@@ -1,8 +1,6 @@
 {
 
 "words": [
-  "Glosaryck",
-  
   "Alfonzo",
   "Andrea",
   "Boo Fly",
@@ -19,41 +17,85 @@
   "Janna",
   "Justin",
   "Kelly",
+  "King Pony Head",
   "Lars",
   "Leah",
   "Ludo",
   "Marco Diaz",
   "Miss Heinous",
   "Mina Loveberry",
+  "Miss Skullnick",
   "Moon Butterfly",
+  "Mr. Candle",
   "Mr. Diaz",
   "Mrs. Diaz",
   "Oskar Greason",
   "Pony Head",
   "River Butterfly",
   "Sabrina",
+  "Spider in a Top Hat",
   "Star Buterfly",
   "Toffee",
+  "Tom",
+  "Willoughby",
   
   "Starco",
   "Janstar",
   "Jarco",
   "Tomco",
+  "Homestuck",
+  "Steven Universe",
   "Trans Girl Marco",
   
+  "Echo Creek",
+  "St. Olga's Reform School for Wayward Princesses",
+  "Quest Buy",
+  "Stop and Slurp",
+  
+  "foreign exchange student ",
+  "misunderstood bad boy",
+  "laser puppies",
+  "narwhal blast",
+  "Sparkle Glitter Bomb Expand",
+  "magic wand",
+  "cactus",
+  "Ludo with a gun",
+  "warnicorn",
   "princess"
   
 ],
 
-"standard":[
+"suffix":[
+  "™️"
 
-  "I'm a magical #word# from another #word#!"
+],
+
+"standard":[
+  "I crawl into bed.\n#word.s.capitalize#: made\n#word.s.capitalize#: fluffed \n#word.s.capitalize#: out",
+
+  "Frankly, I like #word# and would welcome a little #word# in my life.",
+  "I'm a magical #word# from another #word#!",
+  
+  "#word.capitalize#, a known gay",
+  "So, I guess everyone who voted me '#word.capitalize#' must be feeling pretty embarrassed right about now.",
+  "When will #word# return from the war"
 
 ],
 
 "origin":[
   
-  "#standard#"
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard#",
+  "#standard# #suffix#"
   
 ],
 
