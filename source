@@ -1,26 +1,40 @@
 {
+"char":["🌱", "🌳", "🌵", "🌷", "🌸", "🌹", "🌺", "🌻", "🌼", 
+"💐", "🍀", "⚡️", "🔥", "️🌟", "⭐️", "🎀", "💫", 
+"✨", "🎉", "🏮", "💕", "💞", "💓", "💗", "💖", "💘", "💝", "💜", 
+"💛","💚", "💙", "🎵","ツ ", "♋ ", "Σ ", "⊗ ",
+"♒ ", "☠ ", "☮ ", "☯ ", "♠ ", "Ω ", "♤ ", "♣ ", "♧ ", "♥ ",
+"♡ ", "♦♢♔ ", "♕ ", "♚ ", "♛ ", "★ ", "☆ ", "✮ ", "✯ ", "☄ ",
+"☾ ", "☽ ", "☼ ", "☀ ", "☁ ", "☂ ", "☃ ", "☻ ", "☺ ", "۞ ",
+"۩ ", "♬ ", "✄ ", "✂ ", "✆ ", "✉ ", "✦ ", "✧ ", "∞ ", "♂ ",
+"♀ ", "☿ ", "❤ ", "❥ ", "❦ ", "❧ ", "™ ", "® ", "© ", "✗ ",
+"✘ ", "⊗ ", "♒ ", "▢ ", "▲ ", "△ ", "▼ ", "▽ ", "◆ ", "◇ ",
+"○ ", "◎ ", "● ", "◯ ", "Δ ", "◕ ", "◔ ", "ʊ ", "ϟ ", "ღ ",
+"回 ", "₪ ", "✓ ", "✔ ", "✕ ", "✖ ", "☢ ", "☣ ", "☤ ", "☥ ",
+"☦ ", "☧ ", "☨ ", "☩ ", "☪ ", "☫ ", "☬ ", "☭ ", "☹ ", "☺ ",
+"☻ ", "ت ", "ヅ ", "ツ ", "ッ ", "シ ", "Ü ", "ϡ ", "♋ ", "♂ ",
+"♀ ", "☿ ", "♥ ", "❤ ", "❥ ", "웃 ", "유 ", "♡ ", "۵ ", "❣ ", 
+"☼ ", "☀ ", "☁ ", "☂ ", "☃ ", "☄ ", "☾ ", "☽ ", "❄ ", "☇ ", 
+"☈ ", "⊙ ", "☉ ", "℃ ", "℉ ", "° ", "♪ ", "♫ ", "♩ ", "♬ ", 
+"♭ ", "♮ ", "♯ ", "° ", "ø ", "✽ ", "✾ ", "✿ ", "❀ ", "❁ ", 
+"❃ ", "♚ ", "♛ ", "♜ ", "♝ ", "♞ ", "♟ ", " ♔ ", "♕ ", "♖ ", 
+"♗ ", "♘ ", "♙ ", "✉ ", "✍ ", "✎ ", "✏ ", "✐✑✒ ", "⌨ ", "☑ ", 
+"✓ ", "✔ ", " ", "☒ ", "☓ ", "✕ ", "✖ ", "✗ ", "✘ ", "✦ ", "★ ", 
+"☆ ", "✰ ", "✮ ", "✯ ", "❇ ", "❈ ", "❅ ", "❄ ", "❆ "],
 
 "words": [
   "Alfonzo",
-  "Andrea",
   "Boo Fly",
   "Brittney Wong",
   "Buff Frog",
-  "Chantelle",
-  "Chelsea",
-  "Ed",
   "Ferguson",
-  "Francis",
   "Glossaryck",
-  "Hope",
   "Jackie Lynn Thomas",
   "Janna",
-  "Justin",
   "Kelly",
   "King Pony Head",
-  "Lars",
-  "Leah",
   "Ludo",
+  "Mackie Hand",
   "Marco Diaz",
   "Miss Heinous",
   "Mina Loveberry",
@@ -29,13 +43,13 @@
   "Mr. Candle",
   "Mr. Diaz",
   "Mrs. Diaz",
-  "Oskar Greason",
+  "Oskar",
   "Pony Head",
   "Princess Marco",
   "River Butterfly",
-  "Sabrina",
   "Spider in a Top Hat",
   "Star Butterfly",
+  "starfan13",
   "Three-eyed Potato Baby",
   "Toffee",
   "Tom",
@@ -51,6 +65,7 @@
   "Trans Girl Marco",
   "bird school, which is for birds",
   "Shrek",
+  "no mercy run",
   
   "Blood Moon Ball",
   "Echo Creek",
@@ -64,7 +79,6 @@
   "dimensional scissors",
   "foreign exchange student",
   "Jellybean Hallucination Mist",
-  "joaje",
   "karate",
   "Lance Lance Revolution",
   "laser puppies",
@@ -89,6 +103,8 @@
 
 "suffix":[
   "™️",
+  "#char#",
+  ". anyway",
   "with a gun"
 
 ],
@@ -96,34 +112,30 @@
 "double" :[
   	"#wording.capitalize#: (reads my mind)\nmy mind: #words#\n#wording.capitalize#: what the fuck",
 	"'That #wording# means that much to you?'\n 'He's the best #wording# I've ever known'"
-  
 ],
 
 "standard":[
   "#[wording:#words#]double#",
   "I crawl into bed.\n\n#words.s.capitalize#: made\n#words.s.capitalize#: fluffed \n#words.s.capitalize#: out",
 
-
   "Frankly, I like #words# and would welcome a little #words# in my life.",
   "I'm a magical #words# from another #words#!",
-  "#words# fandom, grab your #words#",
-  "roses are red, violets are #words.s#, #words#",
+  "#words# fandom, grab your #words.s#",
   
-  "randy its been five minutes flip your #words#",
+  "we popping the biggest bottles when #words# happens tomorrow",
   "holy #words# on a bike",
   "you are weak and #words# is coming for you",
   "We Are All #words.capitalize#",
-  "☭follow for more soft #words#☭",
+  "#char#follow for more soft #words##char#",
   "i heard #words# has an 8-pack",
   "if this gets 1000 notes my mom said she’ll buy me #words.a#",
-  "stop #words# 2k17",
+  "stop #words# 2k17", 
   "tag yourself I'm #words#",
   "I'll get you, #words#!!",
-  "#words.capitalize# is completely platonic",
+  "Steven Universe: #words#\nStar Butterfly: #words#",
   "#words.capitalize#, a known gay",
-  "So, I guess everyone who voted me '#words.capitalize#' must be feeling pretty embarrassed right about now.",
-  "There is no way that #words# is cis",
-  "When will #words# return from the war"
+  "#words# was never the answer....",
+  "There is no way that #words# is cis"
 
 ],
 
@@ -145,7 +157,7 @@
   "#standard#",
   "#standard#",
   "#standard#",
-  "#standard#",
+  "#char##standard##char#",
   "#prefix# #standard#",
   "#standard# #suffix#"
   
