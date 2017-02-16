@@ -22,11 +22,13 @@
 
 "words": [
   "Alfonzo",
+  "Baby",
   "Boo Fly",
   "Brittney Wong",
   "Buff Frog",
   "Ferguson",
   "Glossaryck",
+  "Hekapoo",
   "Jackie Lynn Thomas",
   "Janna",
   "Kelly",
@@ -44,6 +46,7 @@
   "Oskar",
   "Pony Head",
   "Princess Marco",
+  "Queen Eclipsa",
   "River Butterfly",
   "Spider in a Top Hat",
   "Star Butterfly",
@@ -55,10 +58,12 @@
   
   "Janstar",
   "Jarco",
+  "Janco",
   "Starco",
   "Tomco",
   "Homestuck",
   "projectbot13",
+  "Gravity Falls",
   "Steven Universe",
   "Trans Girl Marco",
   "Shrek",
@@ -73,16 +78,18 @@
   
   "Awesome Opossums",
   "cactus",
+  "dimension",
   "dimensional scissors",
   "foreign exchange student",
   "Jellybean Hallucination Mist",
   "karate",
   "Lance Lance Revolution",
   "laser puppies",
+  "liberal ideology",
   "Ludo with a gun",
   "magic wand",
   "Marco's Super Awesome Nachos!",
-  "mess up twins",
+  "mess up twin",
   "Mewberty",
   "misunderstood bad boy",
   "narwhal blast",
@@ -91,20 +98,18 @@
   "Shiny Emerald Snake Strike",
   "Sparkle Glitter Bomb Expand",
   "warnicorn"
-
 ],
 
 "prefix":[
   "SURPRISE!"
-
 ],
 
 "suffix":[
   "™️",
   "checkmate, atheists",
   ". anyway",
+  "mmm whatcha say",
   "with a gun"
-
 ],
 
 "double" :[
@@ -121,6 +126,7 @@
   "#words# fandom, grab your #words.s#",
   
   "we popping the biggest bottles when #words# happens tomorrow",
+  "oh man, I'd love to be #words#",
   "holy #words# on a bike",
   "you are weak and #words# is coming for you",
   "We Are All #words.capitalize#",
@@ -133,7 +139,6 @@
   "Steven Universe: #words#\nStar Butterfly: #words#",
   "#words# was never the answer....",
   "There is no way that #words# is cis"
-
 ],
 
 "origin":[  
@@ -156,8 +161,7 @@
   "#standard#",
   "#char##standard##char#",
   "#prefix# #standard#",
-  "#standard# #suffix#"
-  
+  "#standard# #suffix#" 
 ]
 
 }
